@@ -1,0 +1,6 @@
+{
+  "name": "Full-Stack Web Development Course",
+  "description": "Comprehensive, university-grade curriculum covering HTML5, CSS, Tailwind, JavaScript, React, TypeScript, Node.js, Express, Supabase, M-Pesa, Stripe, DevOps and Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
